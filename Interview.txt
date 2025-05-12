@@ -1,0 +1,23 @@
+- Tại sao không dùng abtract class để tạo đối tượng
+mục đích abstract class là tạo ra bản thiết kế cho các lớp kế thừa đồng thời lớp con có thể sử dụng lại các phương thức và thuộc tích đã định nghĩa sẵn ở abstract class.
+abtract class nó ko phải là 1 class đầy đủ và mục đích sinh ra nó chỉ để những class khác kế thừa lại nên sẽ không lấy nó để instance. 
+1 class dc gọi là 1 đối tượng khi intance nó lên, bình thường ko intance nó lên thì cũng không gọi dc phương thức hay thuộc tính của nó.
+
+fresher, junior: thì chỉ có vài câu cơ bản thôi à:
++ OOP: Hướng đối tượng có bao nhiêu tính chất? Vì sau dùng OOP?
++ OOP kết hợp C#: Tham số mặc định trong hàm là gì, một class có thể overload một hàm không có tham số và có 1 tham số mặc định hay không, có thể overload 1 hàm có 1 tham số là tham số mặc định và 1 hàm có 2 tham số đều là tham số mặc định hay không?
++ SQL: Lệnh Union có tác dụng gì? Phân biệt left join, inner join, right join.
++ Linq: Vì sao dùng Linq? Ưu và nhược điểm của Linq? Lệnh Include và ThenInclude trong linq Khác nhau như thế nào?
++ ASP: Mô tả cách thức xử lý request trong MVC, Điểm mạnh và điểm yếu của MVC. DI là gì vì sao dùng DI. Router trong ASP hoặt động như thế nào. Nếu một phương thức không xác định method là GET, POST, PUT hay Delete thì nó có phương thức là gì (chổ này hay hỏi REST API là gì).
++ Câu hỏi tư duy lập trình và thuật toán: Giải thuật tìm kiếm nhị phân, cân bằng cây nhị phân. Hoán đổi 2 phần tử trong danh sách liên kết đơn.
++ Câu hỏi về mục tiêu tương lai, kế hoạch thực hiện.
++ vài câu hỏi khác liên quan đến dự án họ có thể cho bạn vào ví dụ em có dùng MySQL bao giờ chưa, em có xài Git Hub không, Azure không?
++ Vài câu hỏi khó hơn một chút để xem khả năng của bạn tìm hiểu như thế nào.
++ Abstract với interface ý nghĩa khác nhau ntn
++ Một vài benefits của dependecy injection: giúp không cần khởi tạo đối tượng và kiểm soát được vòng đời của đối tượng đó
++ Nếu loại bỏ abstract và interface thì có đạt được sự trừu tượng không?
++ thế nào là đa hình? Đa hình động là gì? Đa hình tĩnh là gì?
++ thế nào là 1 static class, thế nào là 1 static base class?
++ Làm sao để tránh duplicate coding?
++ để query dữ liệu từ client lên sever và ngược lại, class nào chịu trách nhiệm?
++ Api là gì. Tại sao cần api ? Phân loại api ? Khi nào không cần api ?

@@ -1,0 +1,1261 @@
+[{
+    "areaName": "China",
+    "checkKey": "^(86){0,1}1\\d{10}$",
+    "code": "86",
+    "domainAbbreviation": "CN"
+}, {
+    "areaName": "Hong Kong S.A.R.",
+    "checkKey": "^(00){0,1}(852){1}0{0,1}[1,4,5,6,8,9](?:\\d{7}|\\d{8}|\\d{12})$",
+    "code": "852",
+    "domainAbbreviation": "HK"
+}, {
+    "areaName": "Macau (SVR)",
+    "checkKey": "^(00){0,1}(853){1}6\\d{7}$",
+    "code": "853",
+    "domainAbbreviation": "MO"
+}, {
+    "areaName": "Taiwan, China",
+    "checkKey": "^(00){0,1}(886){1}0{0,1}[6,7,9](?:\\d{7}|\\d{8}|\\d{10})$",
+    "code": "886",
+    "domainAbbreviation": "TW"
+}, {
+    "areaName": "South Korea",
+    "checkKey": "^(00){0,1}(82){1}0{0,1}[7,1](?:\\d{8}|\\d{9})$",
+    "code": "82",
+    "domainAbbreviation": "KR"
+}, {
+    "areaName": "Japan",
+    "checkKey": "^(00){0,1}(81){1}0{0,1}[7,8,9](?:\\d{8}|\\d{9})$",
+    "code": "81",
+    "domainAbbreviation": "JP"
+}, {
+    "areaName": "United States of America",
+    "checkKey": "^(00){0,1}(1){1}\\d{10,12}$",
+    "code": "1",
+    "domainAbbreviation": "US"
+}, {
+    "areaName": "Canada",
+    "checkKey": "^(00){0,1}(1){1}\\d{10}$",
+    "code": "1",
+    "domainAbbreviation": "CA"
+}, {
+    "areaName": "Australia",
+    "checkKey": "^(00){0,1}(61){1}4\\d{8,9}$",
+    "code": "61",
+    "domainAbbreviation": "AU"
+}, {
+    "areaName": "Singapore",
+    "checkKey": "^(00){0,1}(65){1}[13689]\\d{6,7}$",
+    "code": "65",
+    "domainAbbreviation": "SG"
+}, {
+    "areaName": "Malaysia",
+    "checkKey": "^(00){0,1}(60){1}1\\d{8,9}$",
+    "code": "60",
+    "domainAbbreviation": "MY"
+}, {
+    "areaName": "Thailand",
+    "checkKey": "^(00){0,1}(66){1}[13456789]\\d{7,8}$",
+    "code": "66",
+    "domainAbbreviation": "TH"
+}, {
+    "areaName": "Vietnam",
+    "checkKey": "^(00){0,1}(84){1}[1-9]\\d{6,9}$",
+    "code": "84",
+    "domainAbbreviation": "VN"
+}, {
+    "areaName": "Philippines",
+    "checkKey": "^(00){0,1}(63){1}[24579](\\d{7,9}|\\d{12})$",
+    "code": "63",
+    "domainAbbreviation": "PH"
+}, {
+    "areaName": "Indonesia",
+    "checkKey": "^(00){0,1}(62){1}[2-9]\\d{7,11}$",
+    "code": "62",
+    "domainAbbreviation": "ID"
+}, {
+    "areaName": "Germany",
+    "checkKey": "^(00){0,1}(49){1}1(\\d{5,6}|\\d{9,12})$",
+    "code": "49",
+    "domainAbbreviation": "DE"
+}, {
+    "areaName": "Italy",
+    "checkKey": "^(00){0,1}(39){1}[37]\\d{8,11}$",
+    "code": "39",
+    "domainAbbreviation": "IT"
+}, {
+    "areaName": "France",
+    "checkKey": "^(00){0,1}(33){1}(\\d{6}|\\d{8,10})$",
+    "code": "33",
+    "domainAbbreviation": "FR"
+}, {
+    "areaName": "Russia",
+    "checkKey": "^(00){0,1}(7){1}[13489]\\d{9,11}$",
+    "code": "7",
+    "domainAbbreviation": "RU"
+}, {
+    "areaName": "New Zealand",
+    "checkKey": "^(00){0,1}(64){1}[278]\\d{7,9}$",
+    "code": "64",
+    "domainAbbreviation": "NZ"
+}, {
+    "areaName": "Netherlands",
+    "checkKey": "^(00){0,1}(31){1}6\\d{8}$",
+    "code": "31",
+    "domainAbbreviation": "NL"
+}, {
+    "areaName": "Sweden",
+    "checkKey": "^(00){0,1}(46){1}[124-7](\\d{8}|\\d{10}|\\d{12})$",
+    "code": "46",
+    "domainAbbreviation": "SE"
+}, {
+    "areaName": "Ukraine",
+    "checkKey": "^(00){0,1}(380){1}[3-79]\\d{8,9}$",
+    "code": "380",
+    "domainAbbreviation": "UA"
+}, {
+    "areaName": "United Arab Emirates",
+    "checkKey": "^(00){0,1}(971){1}\\d{6,12}$",
+    "code": "971",
+    "domainAbbreviation": "AE"
+}, {
+    "areaName": "Argentina",
+    "checkKey": "^(00){0,1}(54){1}\\d{6,12}$",
+    "code": "54",
+    "domainAbbreviation": "AR"
+}, {
+    "areaName": "Austria",
+    "checkKey": "^(00){0,1}(43){1}\\d{6,12}$",
+    "code": "43",
+    "domainAbbreviation": "AT"
+}, {
+    "areaName": "Belgium",
+    "checkKey": "^(00){0,1}(32){1}\\d{6,12}$",
+    "code": "32",
+    "domainAbbreviation": "BE"
+}, {
+    "areaName": "Bulgaria",
+    "checkKey": "^(00){0,1}(359){1}\\d{6,12}$",
+    "code": "359",
+    "domainAbbreviation": "BG"
+}, {
+    "areaName": "Brazil",
+    "checkKey": "^(00){0,1}(55){1}\\d{6,12}$",
+    "code": "55",
+    "domainAbbreviation": "BR"
+}, {
+    "areaName": "Bahamas",
+    "checkKey": "^(00){0,1}(1242){1}\\d{6,12}$",
+    "code": "1242",
+    "domainAbbreviation": "BS"
+}, {
+    "areaName": "Belarus",
+    "checkKey": "^(00){0,1}(375){1}\\d{6,12}$",
+    "code": "375",
+    "domainAbbreviation": "BY"
+}, {
+    "areaName": "Belize",
+    "checkKey": "^(00){0,1}(501){1}\\d{6,12}$",
+    "code": "501",
+    "domainAbbreviation": "BZ"
+}, {
+    "areaName": "Switzerland",
+    "checkKey": "^(00){0,1}(41){1}\\d{6,12}$",
+    "code": "41",
+    "domainAbbreviation": "CH"
+}, {
+    "areaName": "Chile",
+    "checkKey": "^(00){0,1}(56){1}\\d{6,12}$",
+    "code": "56",
+    "domainAbbreviation": "CL"
+}, {
+    "areaName": "Colombia",
+    "checkKey": "^(00){0,1}(57){1}\\d{6,12}$",
+    "code": "57",
+    "domainAbbreviation": "CO"
+}, {
+    "areaName": "Denmark",
+    "checkKey": "^(00){0,1}(45){1}\\d{6,12}$",
+    "code": "45",
+    "domainAbbreviation": "DK"
+}, {
+    "areaName": "Estonia",
+    "checkKey": "^(00){0,1}(372){1}\\d{6,12}$",
+    "code": "372",
+    "domainAbbreviation": "EE"
+}, {
+    "areaName": "Egypt",
+    "checkKey": "^(00){0,1}(20){1}\\d{6,12}$",
+    "code": "20",
+    "domainAbbreviation": "EG"
+}, {
+    "areaName": "Spain",
+    "checkKey": "^(00){0,1}(34){1}\\d{6,12}$",
+    "code": "34",
+    "domainAbbreviation": "ES"
+}, {
+    "areaName": "Finland",
+    "checkKey": "^(00){0,1}(358){1}\\d{6,12}$",
+    "code": "358",
+    "domainAbbreviation": "FI"
+}, {
+    "areaName": "Greece",
+    "checkKey": "^(00){0,1}(30){1}\\d{6,12}$",
+    "code": "30",
+    "domainAbbreviation": "GR"
+}, {
+    "areaName": "Hungary",
+    "checkKey": "^(00){0,1}(36){1}\\d{6,12}$",
+    "code": "36",
+    "domainAbbreviation": "HU"
+}, {
+    "areaName": "Ireland",
+    "checkKey": "^(00){0,1}(353){1}\\d{6,12}$",
+    "code": "353",
+    "domainAbbreviation": "IE"
+}, {
+    "areaName": "Israel",
+    "checkKey": "^(00){0,1}(972){1}\\d{6,12}$",
+    "code": "972",
+    "domainAbbreviation": "IL"
+}, {
+    "areaName": "India",
+    "checkKey": "^(00){0,1}(91){1}\\d{6,12}$",
+    "code": "91",
+    "domainAbbreviation": "IN"
+}, {
+    "areaName": "Jordan",
+    "checkKey": "^(00){0,1}(962){1}\\d{6,12}$",
+    "code": "962",
+    "domainAbbreviation": "JO"
+}, {
+    "areaName": "Kyrgyzstan",
+    "checkKey": "^(00){0,1}(996){1}\\d{6,12}$",
+    "code": "996",
+    "domainAbbreviation": "KG"
+}, {
+    "areaName": "Cambodia",
+    "checkKey": "^(00){0,1}(855){1}\\d{6,12}$",
+    "code": "855",
+    "domainAbbreviation": "KH"
+}, {
+    "areaName": "Sri Lanka",
+    "checkKey": "^(00){0,1}(94){1}\\d{6,12}$",
+    "code": "94",
+    "domainAbbreviation": "LK"
+}, {
+    "areaName": "Lithuania",
+    "checkKey": "^(00){0,1}(370){1}\\d{6,12}$",
+    "code": "370",
+    "domainAbbreviation": "LT"
+}, {
+    "areaName": "Luxembourg",
+    "checkKey": "^(00){0,1}(352){1}\\d{6,12}$",
+    "code": "352",
+    "domainAbbreviation": "LU"
+}, {
+    "areaName": "Morocco",
+    "checkKey": "^(00){0,1}(212){1}\\d{6,12}$",
+    "code": "212",
+    "domainAbbreviation": "MA"
+}, {
+    "areaName": "Mongolia",
+    "checkKey": "^(00){0,1}(976){1}\\d{6,12}$",
+    "code": "976",
+    "domainAbbreviation": "MN"
+}, {
+    "areaName": "Maldives",
+    "checkKey": "^(00){0,1}(960){1}\\d{6,12}$",
+    "code": "960",
+    "domainAbbreviation": "MV"
+}, {
+    "areaName": "Mexico",
+    "checkKey": "^(00){0,1}(52){1}\\d{6,12}$",
+    "code": "52",
+    "domainAbbreviation": "MX"
+}, {
+    "areaName": "Nigeria",
+    "checkKey": "^(00){0,1}(234){1}\\d{6,12}$",
+    "code": "234",
+    "domainAbbreviation": "NG"
+}, {
+    "areaName": "Norway",
+    "checkKey": "^(00){0,1}(47){1}\\d{6,12}$",
+    "code": "47",
+    "domainAbbreviation": "NO"
+}, {
+    "areaName": "Panama",
+    "checkKey": "^(00){0,1}(507){1}\\d{6,12}$",
+    "code": "507",
+    "domainAbbreviation": "PA"
+}, {
+    "areaName": "Peru",
+    "checkKey": "^(00){0,1}(51){1}\\d{6,12}$",
+    "code": "51",
+    "domainAbbreviation": "PE"
+}, {
+    "areaName": "Poland",
+    "checkKey": "^(00){0,1}(48){1}\\d{6,12}$",
+    "code": "48",
+    "domainAbbreviation": "PL"
+}, {
+    "areaName": "Portugal",
+    "checkKey": "^(00){0,1}(351){1}\\d{6,12}$",
+    "code": "351",
+    "domainAbbreviation": "PT"
+}, {
+    "areaName": "Qatar",
+    "checkKey": "^(00){0,1}(974){1}\\d{6,12}$",
+    "code": "974",
+    "domainAbbreviation": "QA"
+}, {
+    "areaName": "Romania",
+    "checkKey": "^(00){0,1}(40){1}\\d{6,12}$",
+    "code": "40",
+    "domainAbbreviation": "RO"
+}, {
+    "areaName": "Saudi Arabia",
+    "checkKey": "^(00){0,1}(966){1}\\d{6,12}$",
+    "code": "966",
+    "domainAbbreviation": "SA"
+}, {
+    "areaName": "Seychelles",
+    "checkKey": "^(00){0,1}(248){1}\\d{6,12}$",
+    "code": "248",
+    "domainAbbreviation": "SC"
+}, {
+    "areaName": "Tunisia",
+    "checkKey": "^(00){0,1}(216){1}\\d{6,12}$",
+    "code": "216",
+    "domainAbbreviation": "TN"
+}, {
+    "areaName": "Turkey",
+    "checkKey": "^(00){0,1}(90){1}\\d{6,12}$",
+    "code": "90",
+    "domainAbbreviation": "TR"
+}, {
+    "areaName": "Venezuela",
+    "checkKey": "^(00){0,1}(58){1}\\d{6,12}$",
+    "code": "58",
+    "domainAbbreviation": "VE"
+}, {
+    "areaName": "Virgin Islands, British",
+    "checkKey": "^(00){0,1}(1284){1}\\d{6,12}$",
+    "code": "1284",
+    "domainAbbreviation": "VG"
+}, {
+    "areaName": "South Africa",
+    "checkKey": "^(00){0,1}(27){1}\\d{6,12}$",
+    "code": "27",
+    "domainAbbreviation": "ZA"
+}, {
+    "areaName": "Albania",
+    "checkKey": "^(00){0,1}(355){1}\\d{6,15}$",
+    "code": "355",
+    "domainAbbreviation": "AL"
+}, {
+    "areaName": "Angola",
+    "checkKey": "^(00){0,1}(244){1}\\d{6,15}$",
+    "code": "244",
+    "domainAbbreviation": "AO"
+}, {
+    "areaName": "Azerbaijan",
+    "checkKey": "^(00){0,1}(994){1}\\d{6,15}$",
+    "code": "994",
+    "domainAbbreviation": "AZ"
+}, {
+    "areaName": "Burkina Faso",
+    "checkKey": "^(00){0,1}(226){1}\\d{6,15}$",
+    "code": "226",
+    "domainAbbreviation": "BF"
+}, {
+    "areaName": "Bahrain",
+    "checkKey": "^(00){0,1}(973){1}\\d{6,15}$",
+    "code": "973",
+    "domainAbbreviation": "BH"
+}, {
+    "areaName": "Benin",
+    "checkKey": "^(00){0,1}(229){1}\\d{6,15}$",
+    "code": "229",
+    "domainAbbreviation": "BJ"
+}, {
+    "areaName": "Brunei",
+    "checkKey": "^(00){0,1}(673){1}\\d{6,15}$",
+    "code": "673",
+    "domainAbbreviation": "BN"
+}, {
+    "areaName": "Bolivia",
+    "checkKey": "^(00){0,1}(591){1}\\d{6,15}$",
+    "code": "591",
+    "domainAbbreviation": "BO"
+}, {
+    "areaName": "Cameroon",
+    "checkKey": "^(00){0,1}(237){1}\\d{6,15}$",
+    "code": "237",
+    "domainAbbreviation": "CM"
+}, {
+    "areaName": "Costa Rica",
+    "checkKey": "^(00){0,1}(506){1}\\d{6,15}$",
+    "code": "506",
+    "domainAbbreviation": "CR"
+}, {
+    "areaName": "Cape Verde",
+    "checkKey": "^(00){0,1}(238){1}\\d{6,15}$",
+    "code": "238",
+    "domainAbbreviation": "CV"
+}, {
+    "areaName": "Cyprus",
+    "checkKey": "^(00){0,1}(357){1}\\d{6,15}$",
+    "code": "357",
+    "domainAbbreviation": "CY"
+}, {
+    "areaName": "Djibouti",
+    "checkKey": "^(00){0,1}(253){1}\\d{6,15}$",
+    "code": "253",
+    "domainAbbreviation": "DJ"
+}, {
+    "areaName": "Gabon",
+    "checkKey": "^(00){0,1}(241){1}\\d{6,15}$",
+    "code": "241",
+    "domainAbbreviation": "GA"
+}, {
+    "areaName": "Grenada",
+    "checkKey": "^(00){0,1}(1473){1}\\d{6,15}$",
+    "code": "1473",
+    "domainAbbreviation": "GD"
+}, {
+    "areaName": "Georgia",
+    "checkKey": "^(00){0,1}(995){1}\\d{6,15}$",
+    "code": "995",
+    "domainAbbreviation": "GE"
+}, {
+    "areaName": "Gambia",
+    "checkKey": "^(00){0,1}(220){1}\\d{6,15}$",
+    "code": "220",
+    "domainAbbreviation": "GM"
+}, {
+    "areaName": "Guinea",
+    "checkKey": "^(00){0,1}(224){1}\\d{6,15}$",
+    "code": "224",
+    "domainAbbreviation": "GN"
+}, {
+    "areaName": "Equatorial Guinea",
+    "checkKey": "^(00){0,1}(240){1}\\d{6,15}$",
+    "code": "240",
+    "domainAbbreviation": "GQ"
+}, {
+    "areaName": "Guatemala",
+    "checkKey": "^(00){0,1}(502){1}\\d{6,15}$",
+    "code": "502",
+    "domainAbbreviation": "GT"
+}, {
+    "areaName": "Guinea-Bissau",
+    "checkKey": "^(00){0,1}(245){1}\\d{6,15}$",
+    "code": "245",
+    "domainAbbreviation": "GW"
+}, {
+    "areaName": "Guyana",
+    "checkKey": "^(00){0,1}(592){1}\\d{6,15}$",
+    "code": "592",
+    "domainAbbreviation": "GY"
+}, {
+    "areaName": "Honduras",
+    "checkKey": "^(00){0,1}(504){1}\\d{6,15}$",
+    "code": "504",
+    "domainAbbreviation": "HN"
+}, {
+    "areaName": "Croatia",
+    "checkKey": "^(00){0,1}(385){1}\\d{6,15}$",
+    "code": "385",
+    "domainAbbreviation": "HR"
+}, {
+    "areaName": "Jamaica",
+    "checkKey": "^(00){0,1}(1876){1}\\d{6,15}$",
+    "code": "1876",
+    "domainAbbreviation": "JM"
+}, {
+    "areaName": "Kenya",
+    "checkKey": "^(00){0,1}(254){1}\\d{6,15}$",
+    "code": "254",
+    "domainAbbreviation": "KE"
+}, {
+    "areaName": "Comoros",
+    "checkKey": "^(00){0,1}(269){1}\\d{6,15}$",
+    "code": "269",
+    "domainAbbreviation": "KM"
+}, {
+    "areaName": "Kuwait",
+    "checkKey": "^(00){0,1}(965){1}\\d{6,15}$",
+    "code": "965",
+    "domainAbbreviation": "KW"
+}, {
+    "areaName": "Cayman Islands",
+    "checkKey": "^(00){0,1}(1345){1}\\d{6,15}$",
+    "code": "1345",
+    "domainAbbreviation": "KY"
+}, {
+    "areaName": "Lesotho",
+    "checkKey": "^(00){0,1}(266){1}\\d{6,15}$",
+    "code": "266",
+    "domainAbbreviation": "LS"
+}, {
+    "areaName": "Latvia",
+    "checkKey": "^(00){0,1}(371){1}\\d{6,15}$",
+    "code": "371",
+    "domainAbbreviation": "LV"
+}, {
+    "areaName": "Moldova",
+    "checkKey": "^(00){0,1}(373){1}\\d{6,15}$",
+    "code": "373",
+    "domainAbbreviation": "MD"
+}, {
+    "areaName": "Madagascar",
+    "checkKey": "^(00){0,1}(261){1}\\d{6,15}$",
+    "code": "261",
+    "domainAbbreviation": "MG"
+}, {
+    "areaName": "Mali",
+    "checkKey": "^(00){0,1}(223){1}\\d{6,15}$",
+    "code": "223",
+    "domainAbbreviation": "ML"
+}, {
+    "areaName": "Mauritania",
+    "checkKey": "^(00){0,1}(222){1}\\d{6,15}$",
+    "code": "222",
+    "domainAbbreviation": "MR"
+}, {
+    "areaName": "Mauritius",
+    "checkKey": "^(00){0,1}(230){1}\\d{6,15}$",
+    "code": "230",
+    "domainAbbreviation": "MU"
+}, {
+    "areaName": "Malawi",
+    "checkKey": "^(00){0,1}(265){1}\\d{6,15}$",
+    "code": "265",
+    "domainAbbreviation": "MW"
+}, {
+    "areaName": "Mozambique",
+    "checkKey": "^(00){0,1}(258){1}\\d{6,15}$",
+    "code": "258",
+    "domainAbbreviation": "MZ"
+}, {
+    "areaName": "Namibia",
+    "checkKey": "^(00){0,1}(264){1}\\d{6,15}$",
+    "code": "264",
+    "domainAbbreviation": "NA"
+}, {
+    "areaName": "Niger",
+    "checkKey": "^(00){0,1}(227){1}\\d{6,15}$",
+    "code": "227",
+    "domainAbbreviation": "NE"
+}, {
+    "areaName": "Nicaragua",
+    "checkKey": "^(00){0,1}(505){1}\\d{6,15}$",
+    "code": "505",
+    "domainAbbreviation": "NI"
+}, {
+    "areaName": "Oman",
+    "checkKey": "^(00){0,1}(968){1}\\d{6,15}$",
+    "code": "968",
+    "domainAbbreviation": "OM"
+}, {
+    "areaName": "Papua New Guinea",
+    "checkKey": "^(00){0,1}(675){1}\\d{6,15}$",
+    "code": "675",
+    "domainAbbreviation": "PG"
+}, {
+    "areaName": "Palestine",
+    "checkKey": "^(00){0,1}(970){1}\\d{6,15}$",
+    "code": "970",
+    "domainAbbreviation": "PS"
+}, {
+    "areaName": "Rwanda",
+    "checkKey": "^(00){0,1}(250){1}\\d{6,15}$",
+    "code": "250",
+    "domainAbbreviation": "RW"
+}, {
+    "areaName": "Slovenia",
+    "checkKey": "^(00){0,1}(386){1}\\d{6,15}$",
+    "code": "386",
+    "domainAbbreviation": "SI"
+}, {
+    "areaName": "Slovakia",
+    "checkKey": "^(00){0,1}(421){1}\\d{6,15}$",
+    "code": "421",
+    "domainAbbreviation": "SK"
+}, {
+    "areaName": "Sierra Leone",
+    "checkKey": "^(00){0,1}(232){1}\\d{6,15}$",
+    "code": "232",
+    "domainAbbreviation": "SL"
+}, {
+    "areaName": "Senegal",
+    "checkKey": "^(00){0,1}(221){1}\\d{6,15}$",
+    "code": "221",
+    "domainAbbreviation": "SN"
+}, {
+    "areaName": "Suriname",
+    "checkKey": "^(00){0,1}(597){1}\\d{6,15}$",
+    "code": "597",
+    "domainAbbreviation": "SR"
+}, {
+    "areaName": "El Salvador",
+    "checkKey": "^(00){0,1}(503){1}\\d{6,15}$",
+    "code": "503",
+    "domainAbbreviation": "SV"
+}, {
+    "areaName": "Swaziland",
+    "checkKey": "^(00){0,1}(268){1}\\d{6,15}$",
+    "code": "268",
+    "domainAbbreviation": "SZ"
+}, {
+    "areaName": "Chad",
+    "checkKey": "^(00){0,1}(235){1}\\d{6,15}$",
+    "code": "235",
+    "domainAbbreviation": "TD"
+}, {
+    "areaName": "Togo",
+    "checkKey": "^(00){0,1}(228){1}\\d{6,15}$",
+    "code": "228",
+    "domainAbbreviation": "TG"
+}, {
+    "areaName": "Tajikistan",
+    "checkKey": "^(00){0,1}(992){1}\\d{6,15}$",
+    "code": "992",
+    "domainAbbreviation": "TJ"
+}, {
+    "areaName": "Turkmenistan",
+    "checkKey": "^(00){0,1}(993){1}\\d{6,15}$",
+    "code": "993",
+    "domainAbbreviation": "TM"
+}, {
+    "areaName": "Trinidad & Tobago",
+    "checkKey": "^(00){0,1}(1868){1}\\d{6,15}$",
+    "code": "1868",
+    "domainAbbreviation": "TT"
+}, {
+    "areaName": "Tanzania",
+    "checkKey": "^(00){0,1}(255){1}\\d{6,15}$",
+    "code": "255",
+    "domainAbbreviation": "TZ"
+}, {
+    "areaName": "Uganda",
+    "checkKey": "^(00){0,1}(256){1}\\d{6,15}$",
+    "code": "256",
+    "domainAbbreviation": "UG"
+}, {
+    "areaName": "Uruguay",
+    "checkKey": "^(00){0,1}(598){1}\\d{6,15}$",
+    "code": "598",
+    "domainAbbreviation": "UY"
+}, {
+    "areaName": "Uzbekistan",
+    "checkKey": "^(00){0,1}(998){1}\\d{6,15}$",
+    "code": "998",
+    "domainAbbreviation": "UZ"
+}, {
+    "areaName": "Yemen",
+    "checkKey": "^(00){0,1}(967){1}\\d{6,15}$",
+    "code": "967",
+    "domainAbbreviation": "YE"
+}, {
+    "areaName": "Zambia",
+    "checkKey": "^(00){0,1}(260){1}\\d{6,15}$",
+    "code": "260",
+    "domainAbbreviation": "ZM"
+}, {
+    "areaName": "Zimbabwe",
+    "checkKey": "^(00){0,1}(263){1}\\d{6,15}$",
+    "code": "263",
+    "domainAbbreviation": "ZW"
+}, {
+    "areaName": "Andorra",
+    "checkKey": "^(00){0,1}(376){1}\\d{6,15}$",
+    "code": "376",
+    "domainAbbreviation": "AD"
+}, {
+    "areaName": "Afghanistan",
+    "checkKey": "^(00){0,1}(93){1}\\d{6,15}$",
+    "code": "93",
+    "domainAbbreviation": "AF"
+}, {
+    "areaName": "Armenia",
+    "checkKey": "^(00){0,1}(374){1}\\d{6,15}$",
+    "code": "374",
+    "domainAbbreviation": "AM"
+}, {
+    "areaName": "Bosnia & Herzegovina",
+    "checkKey": "^(00){0,1}(387){1}\\d{6,15}$",
+    "code": "387",
+    "domainAbbreviation": "BA"
+}, {
+    "areaName": "Bangladesh",
+    "checkKey": "^(00){0,1}(880){1}\\d{6,15}$",
+    "code": "880",
+    "domainAbbreviation": "BD"
+}, {
+    "areaName": "Burundi",
+    "checkKey": "^(00){0,1}(257){1}\\d{6,15}$",
+    "code": "257",
+    "domainAbbreviation": "BI"
+}, {
+    "areaName": "Botswana",
+    "checkKey": "^(00){0,1}(267){1}\\d{6,15}$",
+    "code": "267",
+    "domainAbbreviation": "BW"
+}, {
+    "areaName": "Democratic Republic of the Congo",
+    "checkKey": "^(00){0,1}(243){1}\\d{6,15}$",
+    "code": "243",
+    "domainAbbreviation": "CD"
+}, {
+    "areaName": "Central African",
+    "checkKey": "^(00){0,1}(236){1}\\d{6,15}$",
+    "code": "236",
+    "domainAbbreviation": "CF"
+}, {
+    "areaName": "Republic of Congo",
+    "checkKey": "^(00){0,1}(242){1}\\d{6,15}$",
+    "code": "242",
+    "domainAbbreviation": "CG"
+}, {
+    "areaName": "Ivory Coast",
+    "checkKey": "^(00){0,1}(225){1}\\d{6,15}$",
+    "code": "225",
+    "domainAbbreviation": "CI"
+}, {
+    "areaName": "Curacao",
+    "checkKey": "^(00){0,1}(599){1}\\d{6,15}$",
+    "code": "599",
+    "domainAbbreviation": "CW"
+}, {
+    "areaName": "Czech Republic",
+    "checkKey": "^(00){0,1}(420){1}\\d{6,15}$",
+    "code": "420",
+    "domainAbbreviation": "CZ"
+}, {
+    "areaName": "Dominican Republic",
+    "checkKey": "^(00){0,1}(1809){1}\\d{6,15}$",
+    "code": "1809",
+    "domainAbbreviation": "DO"
+}, {
+    "areaName": "Algeria",
+    "checkKey": "^(00){0,1}(213){1}\\d{6,15}$",
+    "code": "213",
+    "domainAbbreviation": "DZ"
+}, {
+    "areaName": "Ecuador",
+    "checkKey": "^(00){0,1}(593){1}\\d{6,15}$",
+    "code": "593",
+    "domainAbbreviation": "EC"
+}, {
+    "areaName": "Ghana",
+    "checkKey": "^(00){0,1}(233){1}\\d{6,15}$",
+    "code": "233",
+    "domainAbbreviation": "GH"
+}, {
+    "areaName": "Iraq",
+    "checkKey": "^(00){0,1}(964){1}\\d{6,15}$",
+    "code": "964",
+    "domainAbbreviation": "IQ"
+}, {
+    "areaName": "Kazakhstan",
+    "checkKey": "^(00){0,1}(7){1}\\d{6,15}$",
+    "code": "7",
+    "domainAbbreviation": "KZ"
+}, {
+    "areaName": "Laos",
+    "checkKey": "^(00){0,1}(856){1}\\d{6,15}$",
+    "code": "856",
+    "domainAbbreviation": "LA"
+}, {
+    "areaName": "Lebanon",
+    "checkKey": "^(00){0,1}(961){1}\\d{6,15}$",
+    "code": "961",
+    "domainAbbreviation": "LB"
+}, {
+    "areaName": "Liberia",
+    "checkKey": "^(00){0,1}(231){1}\\d{6,15}$",
+    "code": "231",
+    "domainAbbreviation": "LR"
+}, {
+    "areaName": "Libya",
+    "checkKey": "^(00){0,1}(218){1}\\d{6,15}$",
+    "code": "218",
+    "domainAbbreviation": "LY"
+}, {
+    "areaName": "Macedonia",
+    "checkKey": "^(00){0,1}(389){1}\\d{6,15}$",
+    "code": "389",
+    "domainAbbreviation": "MK"
+}, {
+    "areaName": "Myanmar",
+    "checkKey": "^(00){0,1}(95){1}\\d{6,15}$",
+    "code": "95",
+    "domainAbbreviation": "MM"
+}, {
+    "areaName": "Pakistan",
+    "checkKey": "^(00){0,1}(92){1}\\d{6,15}$",
+    "code": "92",
+    "domainAbbreviation": "PK"
+}, {
+    "areaName": "Puerto Rico",
+    "checkKey": "^(00){0,1}(1787){1}\\d{6,15}$",
+    "code": "1787",
+    "domainAbbreviation": "PR"
+}, {
+    "areaName": "Somalia",
+    "checkKey": "^(00){0,1}(252){1}\\d{6,15}$",
+    "code": "252",
+    "domainAbbreviation": "SO"
+}, {
+    "areaName": "Saint Vincent and the Grenadines",
+    "checkKey": "^(00){0,1}(1784){1}\\d{6,15}$",
+    "code": "1784",
+    "domainAbbreviation": "VC"
+}, {
+    "areaName": "Nepal",
+    "checkKey": "^(00){0,1}(977){1}\\d{6,15}$",
+    "code": "977",
+    "domainAbbreviation": "NP"
+}, {
+    "areaName": "Malta",
+    "checkKey": "^(00){0,1}(356){1}\\d{6,15}$",
+    "code": "356",
+    "domainAbbreviation": "MT"
+}, {
+    "areaName": "Antigua and Barbuda",
+    "checkKey": "^(00){0,1}(1268){1}\\d{6,15}$",
+    "code": "1268",
+    "domainAbbreviation": "AG"
+}, {
+    "areaName": "Anguilla",
+    "checkKey": "",
+    "code": "1264",
+    "domainAbbreviation": "AI"
+}, {
+    "areaName": "NetheriandsAntilles",
+    "checkKey": "^(00){0,1}(599){1}\\d{1,100}$",
+    "code": "599",
+    "domainAbbreviation": "AN"
+}, {
+    "areaName": "Antarctica",
+    "checkKey": "^(00){0,1}(6723){1}\\d{1,100}$",
+    "code": "672",
+    "domainAbbreviation": "AQ"
+}, {
+    "areaName": "SamoaEastern",
+    "checkKey": "^(00){0,1}(684){1}\\d{1,100}$",
+    "code": "684",
+    "domainAbbreviation": "AS"
+}, {
+    "areaName": "Aruba",
+    "checkKey": "^(00){0,1}(297){1}\\d{6,15}$",
+    "code": "297",
+    "domainAbbreviation": "AW"
+}, {
+    "areaName": "Barbados",
+    "checkKey": "^(00){0,1}(1246){1}\\d{6,15}$",
+    "code": "1246",
+    "domainAbbreviation": "BB"
+}, {
+    "areaName": "BermudaIs.",
+    "checkKey": "^(00){0,1}(1441){1}\\d{1,100}$",
+    "code": "1441",
+    "domainAbbreviation": "BM"
+}, {
+    "areaName": "Bhutan",
+    "checkKey": "^(00){0,1}(975){1}\\d{6,15}$",
+    "code": "975",
+    "domainAbbreviation": "BT"
+}, {
+    "areaName": "Bouvet Island",
+    "checkKey": "",
+    "code": "47",
+    "domainAbbreviation": "BV"
+}, {
+    "areaName": "Cocos (Keeling) Islands",
+    "checkKey": "",
+    "code": "891",
+    "domainAbbreviation": "CC"
+}, {
+    "areaName": "Cook Islands",
+    "checkKey": "^(00){0,1}(682){1}\\d{6,15}$",
+    "code": "682",
+    "domainAbbreviation": "CK"
+}, {
+    "areaName": "Christmas Island",
+    "checkKey": "",
+    "code": "61",
+    "domainAbbreviation": "CX"
+}, {
+    "areaName": "Dominica",
+    "checkKey": "",
+    "code": "1767",
+    "domainAbbreviation": "DM"
+}, {
+    "areaName": "Western Sahara",
+    "checkKey": "^(00){0,1}(6723){1}\\d{1,100}$",
+    "code": "213",
+    "domainAbbreviation": "EH"
+}, {
+    "areaName": "Eritrea",
+    "checkKey": "^(00){0,1}(6723){1}\\d{1,100}$",
+    "code": "291",
+    "domainAbbreviation": "ER"
+}, {
+    "areaName": "Ethiopia",
+    "checkKey": "^(00){0,1}(251){1}\\d{6,15}$",
+    "code": "251",
+    "domainAbbreviation": "ET"
+}, {
+    "areaName": "Fiji",
+    "checkKey": "^(00){0,1}(679){1}\\d{6,15}$",
+    "code": "679",
+    "domainAbbreviation": "FJ"
+}, {
+    "areaName": "Falkland Islands (Malvinas)",
+    "checkKey": "",
+    "code": "500",
+    "domainAbbreviation": "FK"
+}, {
+    "areaName": "Micronesia",
+    "checkKey": "^(00){0,1}(691){1}\\d{6,15}$",
+    "code": "691",
+    "domainAbbreviation": "FM"
+}, {
+    "areaName": "Faroe Islands",
+    "checkKey": "^(00){0,1}(298){1}\\d{6,15}$",
+    "code": "298",
+    "domainAbbreviation": "FO"
+}, {
+    "areaName": "FrenchGuiana",
+    "checkKey": "^(00){0,1}(594){1}\\d{1,100}$",
+    "code": "594",
+    "domainAbbreviation": "GF"
+}, {
+    "areaName": "Gibraltar",
+    "checkKey": "^(00){0,1}(350){1}\\d{6,15}$",
+    "code": "350",
+    "domainAbbreviation": "GI"
+}, {
+    "areaName": "Greenland",
+    "checkKey": "^(00){0,1}(299){1}\\d{6,15}$",
+    "code": "299",
+    "domainAbbreviation": "GL"
+}, {
+    "areaName": "Guadeloupe",
+    "checkKey": "^(00){0,1}(6723){1}\\d{1,100}$",
+    "code": "590",
+    "domainAbbreviation": "GP"
+}, {
+    "areaName": "Guam",
+    "checkKey": "^(00){0,1}(1671){1}\\d{6,15}$",
+    "code": "1671",
+    "domainAbbreviation": "GU"
+}, {
+    "areaName": "Heard and Mc Donald Islands",
+    "checkKey": "",
+    "code": "61",
+    "domainAbbreviation": "HM"
+}, {
+    "areaName": "Haiti",
+    "checkKey": "^(00){0,1}(509){1}\\d{6,15}$",
+    "code": "509",
+    "domainAbbreviation": "HT"
+}, {
+    "areaName": "Isle of Man",
+    "checkKey": "",
+    "code": "44",
+    "domainAbbreviation": "IM"
+}, {
+    "areaName": "British Indian Ocean Territory",
+    "checkKey": "",
+    "code": "246",
+    "domainAbbreviation": "IO"
+}, {
+    "areaName": "Iceland",
+    "checkKey": "^(00){0,1}(354){1}\\d{6,15}$",
+    "code": "354",
+    "domainAbbreviation": "IS"
+}, {
+    "areaName": "Jersey",
+    "checkKey": "^(00){0,1}(6723){1}\\d{1,100}$",
+    "code": "44",
+    "domainAbbreviation": "JEY"
+}, {
+    "areaName": "Kiribati",
+    "checkKey": "",
+    "code": "686",
+    "domainAbbreviation": "KI"
+}, {
+    "areaName": "Saint Kitts and Nevis",
+    "checkKey": "",
+    "code": "1869",
+    "domainAbbreviation": "KN"
+}, {
+    "areaName": "SaintLueia",
+    "checkKey": "^(00){0,1}(1758){1}\\d{1,100}$",
+    "code": "1758",
+    "domainAbbreviation": "LC"
+}, {
+    "areaName": "Liechtenstein",
+    "checkKey": "^(00){0,1}(423){1}\\d{6,15}$",
+    "code": "423",
+    "domainAbbreviation": "LI"
+}, {
+    "areaName": "Monaco",
+    "checkKey": "^(00){0,1}(377){1}\\d{6,15}$",
+    "code": "377",
+    "domainAbbreviation": "MC"
+}, {
+    "areaName": "Marshall Islands",
+    "checkKey": "",
+    "code": "692",
+    "domainAbbreviation": "MH"
+}, {
+    "areaName": "MarianaIs",
+    "checkKey": "^(00){0,1}(1670){1}\\d{1,100}$",
+    "code": "1670",
+    "domainAbbreviation": "MP"
+}, {
+    "areaName": "Martinique",
+    "checkKey": "^(00){0,1}(596){1}\\d{1,100}$",
+    "code": "596",
+    "domainAbbreviation": "MQ"
+}, {
+    "areaName": "Montserrat",
+    "checkKey": "",
+    "code": "1664",
+    "domainAbbreviation": "MS"
+}, {
+    "areaName": "New Caledonia",
+    "checkKey": "^(00){0,1}(687){1}\\d{1,100}$",
+    "code": "687",
+    "domainAbbreviation": "NC"
+}, {
+    "areaName": "Norfolk Island",
+    "checkKey": "^(00){0,1}(6723){1}\\d{1,100}$",
+    "code": "6723",
+    "domainAbbreviation": "NF"
+}, {
+    "areaName": "Nauru",
+    "checkKey": "",
+    "code": "674",
+    "domainAbbreviation": "NR"
+}, {
+    "areaName": "Niue",
+    "checkKey": "",
+    "code": "683",
+    "domainAbbreviation": "NU"
+}, {
+    "areaName": "French Polynesia",
+    "checkKey": "^(00){0,1}(689){1}\\d{6,15}$",
+    "code": "689",
+    "domainAbbreviation": "PF"
+}, {
+    "areaName": "pierre and miquelon",
+    "checkKey": "^(00){0,1}(508){1}\\d{1,100}$",
+    "code": "508",
+    "domainAbbreviation": "PM"
+}, {
+    "areaName": "Pitcairn",
+    "checkKey": "",
+    "code": "64",
+    "domainAbbreviation": "PN"
+}, {
+    "areaName": "Palau",
+    "checkKey": "^(00){0,1}(680){1}\\d{6,15}$",
+    "code": "680",
+    "domainAbbreviation": "PW"
+}, {
+    "areaName": "Paraguay",
+    "checkKey": "^(00){0,1}(595){1}\\d{6,15}$",
+    "code": "595",
+    "domainAbbreviation": "PY"
+}, {
+    "areaName": "Reunion",
+    "checkKey": "^(00){0,1}(-4){1}\\d{1,100}$",
+    "code": "262",
+    "domainAbbreviation": "RE"
+}, {
+    "areaName": "Solomon Islands",
+    "checkKey": "^(00){0,1}(677){1}\\d{6,15}$",
+    "code": "677",
+    "domainAbbreviation": "SB"
+}, {
+    "areaName": "South Georgia and the South Sandwich Islands",
+    "checkKey": "^(00){0,1}(6723){1}\\d{1,100}$",
+    "code": "500",
+    "domainAbbreviation": "SGS"
+}, {
+    "areaName": "St. Helena",
+    "checkKey": "^(00){0,1}(6723){1}\\d{1,100}$",
+    "code": "290",
+    "domainAbbreviation": "SH"
+}, {
+    "areaName": "Svalbard and Jan Mayen Islands",
+    "checkKey": "",
+    "code": "47",
+    "domainAbbreviation": "SJ"
+}, {
+    "areaName": "San Marino",
+    "checkKey": "^(00){0,1}(378){1}\\d{6,15}$",
+    "code": "378",
+    "domainAbbreviation": "SM"
+}, {
+    "areaName": "Sao Tome and Principe",
+    "checkKey": "",
+    "code": "239",
+    "domainAbbreviation": "ST"
+}, {
+    "areaName": "Turks and Caicos Islands",
+    "checkKey": "",
+    "code": "1649",
+    "domainAbbreviation": "TC"
+}, {
+    "areaName": "French Southern Territories",
+    "checkKey": "",
+    "code": "262",
+    "domainAbbreviation": "TF"
+}, {
+    "areaName": "Tokelau",
+    "checkKey": "",
+    "code": "690",
+    "domainAbbreviation": "TK"
+}, {
+    "areaName": "Tonga",
+    "checkKey": "^(00){0,1}(676){1}\\d{6,15}$",
+    "code": "676",
+    "domainAbbreviation": "TO"
+}, {
+    "areaName": "Tuvalu",
+    "checkKey": "",
+    "code": "688",
+    "domainAbbreviation": "TV"
+}, {
+    "areaName": "United States Minor Outlying Islands",
+    "checkKey": "",
+    "code": "1",
+    "domainAbbreviation": "UM"
+}, {
+    "areaName": "Vatican City State (Holy See)",
+    "checkKey": "",
+    "code": "379",
+    "domainAbbreviation": "VA"
+}, {
+    "areaName": "Virgin Islands (U.S.)",
+    "checkKey": "",
+    "code": "1340",
+    "domainAbbreviation": "VI"
+}, {
+    "areaName": "Vanuatu",
+    "checkKey": "^(00){0,1}(678){1}\\d{1,100}$",
+    "code": "678",
+    "domainAbbreviation": "VU"
+}, {
+    "areaName": "Wallis And Futuna Islands",
+    "checkKey": "",
+    "code": "681",
+    "domainAbbreviation": "WF"
+}, {
+    "areaName": "Samoa",
+    "checkKey": "^(00){0,1}(685){1}\\d{6,15}$",
+    "code": "685",
+    "domainAbbreviation": "WS"
+}, {
+    "areaName": "Mayotte",
+    "checkKey": "^(00){0,1}(2696){1}\\d{1,100}$",
+    "code": "2696",
+    "domainAbbreviation": "YT"
+}, {
+    "areaName": "Zaire",
+    "checkKey": "^(00){0,1}(243){1}\\d{1,100}$",
+    "code": "243",
+    "domainAbbreviation": "ZR"
+}, {
+    "areaName": "Aland Islands",
+    "checkKey": "",
+    "code": "358",
+    "domainAbbreviation": "ALA"
+}, {
+    "areaName": "Ascension Island",
+    "checkKey": "",
+    "code": "247",
+    "domainAbbreviation": "ASC"
+}, {
+    "areaName": "Saint Barthelemy",
+    "checkKey": "",
+    "code": "590",
+    "domainAbbreviation": "BLM"
+}, {
+    "areaName": "Zanzibar",
+    "checkKey": "",
+    "code": "255",
+    "domainAbbreviation": "EAZ"
+}, {
+    "areaName": "France Metropolitan",
+    "checkKey": "",
+    "code": "33",
+    "domainAbbreviation": "FX"
+}, {
+    "areaName": "Alderney",
+    "checkKey": "",
+    "code": "44",
+    "domainAbbreviation": "GBA"
+}, {
+    "areaName": "Guernsey",
+    "checkKey": "",
+    "code": "44",
+    "domainAbbreviation": "GGY"
+}, {
+    "areaName": "Scotland",
+    "checkKey": "",
+    "code": "44",
+    "domainAbbreviation": "SCT"
+}, {
+    "areaName": "South Sudan",
+    "checkKey": "",
+    "code": "211",
+    "domainAbbreviation": "SS"
+}, {
+    "areaName": "Timor-Leste",
+    "checkKey": "",
+    "code": "670",
+    "domainAbbreviation": "TLS"
+}, {
+    "areaName": "East Timor",
+    "checkKey": "",
+    "code": "670",
+    "domainAbbreviation": "TP"
+}, {
+    "areaName": "Yugoslavia",
+    "checkKey": "",
+    "code": "381",
+    "domainAbbreviation": "YU"
+}, {
+    "areaName": "United Kingdom",
+    "checkKey": "^(00){0,1}(44){1}[347-9](\\d{8,9}|\\d{11,12})$",
+    "code": "44",
+    "domainAbbreviation": "UK"
+}, {
+    "areaName": "Kosovo",
+    "checkKey": "^(00){0,1}(383){1}\\d{6,15}$",
+    "code": "383",
+    "domainAbbreviation": "KS"
+}, {
+    "areaName": "Saint Martin",
+    "checkKey": "^(00){0,1}(590){1}\\d{6,15}$",
+    "code": "590",
+    "domainAbbreviation": "MAF"
+}, {
+    "areaName": "Montenegro",
+    "checkKey": "^(00){0,1}(382){1}\\d{6,15}$",
+    "code": "382",
+    "domainAbbreviation": "MNE"
+}, {
+    "areaName": "Serbia",
+    "checkKey": "^(00){0,1}(381){1}\\d{6,12}$",
+    "code": "381",
+    "domainAbbreviation": "SRB"
+}];
